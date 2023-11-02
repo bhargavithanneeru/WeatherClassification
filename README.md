@@ -5,7 +5,7 @@
 # Weather Classification System Using Images
 
 **Author:** Bhargavi Thanneeru
-**Email:** bthannee@iu.edu
+**Email:** thanneerubhargavi@gmail.com
 
 ## Overview
 
